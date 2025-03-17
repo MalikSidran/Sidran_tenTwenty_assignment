@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/archivo_condensed_black.ttf",
+      "sha1": "0f105e2d1ee596bb91bb753302b56f9481860d0c"
+    },
+    {
+      "path": "assets/fonts/archivo_condensed_blackItalic.ttf",
+      "sha1": "c023820e805f3d18f713f63bf138edcb89079e43"
+    },
+    {
+      "path": "assets/fonts/archivo_condensed_bold.ttf",
+      "sha1": "0b303a4c696c4090630659b45ad6d204e0580f84"
+    },
+    {
+      "path": "assets/fonts/archivo_condensed_extrabold.ttf",
+      "sha1": "b102d29288d13bdd4e15992995a659b912771da4"
+    },
+    {
+      "path": "assets/fonts/archivo_condensed_light.ttf",
+      "sha1": "52d3e99a57688fbe7d6475e8879eebbd6fd8ebf9"
+    },
+    {
+      "path": "assets/fonts/archivo_condensed_medium.ttf",
+      "sha1": "095b8f36738263510722c74063ba944bcd611ffe"
+    },
+    {
+      "path": "assets/fonts/archivo_condensed_regular.ttf",
+      "sha1": "39c8a7e85de0222e638a2112feb7adfe97402106"
+    },
+    {
+      "path": "assets/fonts/archivo_condensed_semibold.ttf",
+      "sha1": "325aecd38d4526424081a7277cc5d9bb3476676c"
+    },
+    {
+      "path": "assets/fonts/index.js",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    }
+  ]
+}
